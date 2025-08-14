@@ -1,0 +1,26 @@
+{
+  "name": "Jornada de Ciencia y Tecnología Cuántica",
+  "short_name": "Quantum2025",
+  "description": "Evento académico de ciencia y tecnología cuántica - Universidad de Cartagena",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0B0F2C",
+  "theme_color": "#0B0F2C",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "categories": ["education", "science", "technology"],
+  "lang": "es",
+  "scope": "/",
+  "id": "quantum-event-2025"
+}
